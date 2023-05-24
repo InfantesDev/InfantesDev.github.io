@@ -1,1 +1,0 @@
-hola que tal esta pagina va a ser desarrollada con astro
