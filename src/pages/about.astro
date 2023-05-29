@@ -2,9 +2,9 @@
 const pageTitle = "About me";
 
 const identity = {
-  firstName: "Sarah",
-  country: "Canada",
-  occupation: "Technical Writer",
+  firstName: "Antonio",
+  country: "Spain",
+  occupation: "Student",
   hobbies: ["photography", "birdwatching", "baseball"],
 };
 
@@ -25,5 +25,17 @@ const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing Docs"];
 
     <h1>{pageTitle}</h1>
     <h2>... and my new Astro site!</h2>
+
+    <li>My name is {identity.firstName}</li>
+    <li>I live in {identity.country} and I work as a {identity.occupation}.</li>
+    {
+      identity.hobbies.length>=2 &&
+        <li>Two of my hobbies are: {identity.hobbies[0]} and {identity.hobbies[1]}</li>
+    }
+
+    <h2>My skilss are: </h2>
+    <ul>
+      {skills.map((skill)=><li>{skill}</li>)}
+    </ul>
 </body>
 </html>
