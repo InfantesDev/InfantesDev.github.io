@@ -1,14 +1,12 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About me"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Soy desarrollador movil, recien graduado del grado superior DAM. Y realizando en grupo una red social DailyTune la cual permitirá conectar mejor con tus amigos a través de la música, se está usando Flutter y Firebase para su desarrollo. 
+Estoy en busca de nuevos proyectos ya sea realizar una aplicación, o trabajo. También estoy realizando varios cursos online para ampliar mi stack tecnológico.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Aparte de lo profesional, me gusta escuchar música casi de todo tipo, jugar a videojuegos y jugar con mi perro.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
@@ -16,21 +14,9 @@ This theme is self-documented \_ which means articles/posts in this theme can al
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- Flutter
+- Firebase
+- Java
+- Android
+- Laravel
+- Spring
