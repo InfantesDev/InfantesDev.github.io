@@ -13,6 +13,11 @@ const { noMarginTop = false } = Astro.props;
 
 <footer class={`${noMarginTop ? "" : "mt-auto"}`}>
   <Hr noPadding />
+  <div class="text-center">
+    <span>Based on 
+      <strong><a href="https://github.com/satnaing/astro-paper" target="_blank">Astro-Paper</a> </strong>
+        by Sat Naing</span>
+  </div>
   <div class="footer-wrapper">
     <Socials centered />
     <div class="copyright-wrapper">
