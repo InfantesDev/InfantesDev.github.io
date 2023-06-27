@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://infantesdev.github.io/",
   author: "Antonio Infantes",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "Imagen",
+  title: "Anto",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
