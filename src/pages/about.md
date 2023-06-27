@@ -21,5 +21,5 @@ Aparte de lo profesional, me gusta escuchar música casi de todo tipo, jugar a v
 - Laravel
 - Spring
 
-Si quieres ver mi cv pulsa [aqui](/src/assets/files/AntonioInfantesCV.pdf)  
+Si quieres ver mi cv pulsa [aqui](https://drive.google.com/file/d/10k1Jq0H2tyZxuMjCg5NQkKG8JCuRUP4Q/view?usp=sharing)  
 Puedes contactar conmigo a traves de mi [correo](mailto:antonioinfantesmar@gmail.com)
